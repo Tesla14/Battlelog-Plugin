@@ -156,6 +156,11 @@ DiceFriendsPlugin = {
 				margin: 0;\n\
 				background: none;\n\
 			}\n\
+			.advirticement {\n\
+				display: none;\n\
+				height: 0px;\n\
+				background: none;\n\
+			}\n\
 			'
 		));
 		
