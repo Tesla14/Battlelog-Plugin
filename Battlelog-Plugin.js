@@ -8,7 +8,7 @@
 */
 
 DiceFriendsPlugin = {
-  playerList : [],
+	playerList : [],
 	updateInterval : 60*2.5,
 	huntDiceData : "http://www.furydivine.net/api/hunt-dice/active/",
 	showingDiceFriends : true,
@@ -147,6 +147,14 @@ DiceFriendsPlugin = {
 				float: left;\n\
 				padding-bottom: 10px;\n\
 				padding-left: 16px;\n\
+			}\n\
+			#main-preorderbf4-banner {\n\
+				position: relative;\n\
+				display: none;\n\
+				width: 1024px;\n\
+				height: 0px;\n\
+				margin: 0;\n\
+				background: none;\n\
 			}\n\
 			'
 		));
@@ -288,14 +296,14 @@ DiceFriendsPlugin = {
 				),
 				$('<div>').attr('id', 'comcenter-dicefriends-settings')
 						  .attr('data-tooltip-position', "left")
-						  .attr('data-tooltip', "Open Settings")
+						  .attr('data-tooltip', "Ouvrir Options")
 						  .addClass('comcenter-interact-settings').append(
 					$('<div>').addClass('comcenter-interact-settings-icon')
 				)
 			)
 		);
 		
-		// add the handler to open the settings   comcenter-offline-separator
+		// add the handler to open the settings   comcenterOfflineFriends
 		$('#comcenter-dicefriends-settings').bind('click', function (e) {
 			DiceFriendsPlugin.displaySettingsPopup();
 			e.stopPropagation()
