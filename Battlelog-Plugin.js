@@ -148,6 +148,14 @@ DiceFriendsPlugin = {
 				padding-bottom: 10px;\n\
 				padding-left: 16px;\n\
 			}\n\
+			#footer-change-lang {\n\
+				position: absolute;\n\\n\
+				top: 100px;\n\\n\
+				left: 100px;\n\
+				color: #3AADE3;\n\
+				font-size: 11px;\n\
+				font-weight: normal;\n\
+			}\n\
 			'
 		));
 		
