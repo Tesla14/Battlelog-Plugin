@@ -148,7 +148,7 @@ DiceFriendsPlugin = {
 				padding-bottom: 10px;\n\
 				padding-left: 16px;\n\
 			}\n\
-			body #footer-wrapper {\n\
+			#base-bf3-body #footer-wrapper {\n\
 				position: absolute;\n\
 				top: 100px;\n\
 				left: 100px;\n\
