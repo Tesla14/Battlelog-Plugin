@@ -5,6 +5,10 @@
 * @date 09.04.2013
 * Copyright (c) 2013, TopperHarley
 * All rights reserved.
+
+
+href="/bf3/fr/language/"
+
 */
 
 DiceFriendsPlugin = {
@@ -147,16 +151,6 @@ DiceFriendsPlugin = {
 				float: left;\n\
 				padding-bottom: 10px;\n\
 				padding-left: 16px;\n\
-			}\n\
-			#base-bf3-body #footer-wrapper {\n\
-				position: absolute;\n\
-				top: 100px;\n\
-				left: 100px;\n\
-			}\n\
-			#footer-wrapper {\n\
-				position: absolute;\n\
-				top: 100px;\n\
-				left: 100px;\n\
 			}\n\
 			'
 		));
