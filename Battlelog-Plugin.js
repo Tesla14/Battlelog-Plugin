@@ -148,7 +148,7 @@ DiceFriendsPlugin = {
 				padding-bottom: 10px;\n\
 				padding-left: 16px;\n\
 			}\n\
-			#footer-legal #footer-change-lang {\n\
+			#footer-legal {\n\
 				position: absolute;\n\
 				top: 100px;\n\
 				left: 100px;\n\
