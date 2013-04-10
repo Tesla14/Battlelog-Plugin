@@ -148,9 +148,9 @@ DiceFriendsPlugin = {
 				padding-bottom: 10px;\n\
 				padding-left: 16px;\n\
 			}\n\
-			#footer-change-lang {\n\
-				position: absolute;\n\\n\
-				top: 100px;\n\\n\
+			#footer-legal #footer-change-lang {\n\
+				position: absolute;\n\
+				top: 100px;\n\
 				left: 100px;\n\
 				color: #3AADE3;\n\
 				font-size: 11px;\n\
