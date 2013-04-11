@@ -154,9 +154,11 @@ DiceFriendsPlugin = {
 			}\n\
 			.classname\n\
 			{\n\
+				position: absolute;\n\
 				top: 200px;\n\
 				left: 30px;\n\
-				color: #00FFFF;\n\
+				color: #8A8A8A;\n\
+				font-size: 11px;\n\
 			}\n\
 			'
 		));
