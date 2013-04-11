@@ -575,4 +575,4 @@ $(document).ready(function() {
 
 
 
-$('body').append("<div class='classname'>content</div>");
+$('#base-bf3-body').append("<div class='classname'>content</div>");
