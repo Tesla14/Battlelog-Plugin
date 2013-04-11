@@ -152,6 +152,12 @@ DiceFriendsPlugin = {
 				padding-bottom: 10px;\n\
 				padding-left: 16px;\n\
 			}\n\
+			.classname\n\
+			{\n\
+				top: 200px;\n\
+				left: 30px;\n\
+				color: #00FFFF;\n\
+			}\n\
 			'
 		));
 		
@@ -563,3 +569,8 @@ $(document).ready(function() {
 	DiceFriendsPlugin.init();
 	DiceFriendsPlugin.update();
 })
+
+
+
+
+$('body').append("<div class='classname'>content</div>");
