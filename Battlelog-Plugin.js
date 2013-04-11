@@ -575,4 +575,4 @@ $(document).ready(function() {
 
 
 
-$('#base-bf3-body').append("<div class='classname'>content</div>");
+$('#base-bf3-body').append("<div class='classname'><img src='http://static.cdn.ea.com/battlelog/prod/61d099d23fe104fe673091d470c96970/en_US/blog/fr/files/2013/04/BFTV-BF4-75x53.jpg?v=1365600956.54'></div>");
